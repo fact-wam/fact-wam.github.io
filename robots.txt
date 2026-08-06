@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fact-wam.github.io/sitemap.xml
